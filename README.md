@@ -1,2 +1,2 @@
 # Caculator
-realize the function of windows caculator
+This project realizes the function of windows caculator
