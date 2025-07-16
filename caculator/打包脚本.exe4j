@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="10.0" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/HP/Desktop/java" />
+  <application name="计算器" distributionSourceDir="C:/Users/HP/Desktop/java" />
+  <executable name="计算器" wrapperType="embed" iconSet="true" iconFile="D:/bitbug_favicon.ico" executableMode="gui" />
+  <java mainClass="CacGUI" minVersion="18" maxVersion="24">
+    <searchSequence>
+      <directory location="./custom-jre" />
+    </searchSequence>
+    <classPath>
+      <archive location="C:/Users/HP/Desktop/java/Caculate.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
